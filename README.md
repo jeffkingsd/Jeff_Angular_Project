@@ -1,4 +1,4 @@
 # Jeff_Angular_Project
 Continuation of Angular Project
 
-I love :coffee: :pizza!
+I love :coffee: :pizza:!
